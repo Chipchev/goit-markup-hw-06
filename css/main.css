@@ -423,6 +423,9 @@ img {
 }
 .join-us {
   font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #ffffff;
 }
